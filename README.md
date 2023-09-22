@@ -1,0 +1,9 @@
+# OrderTrader
+.env format
+
+APP_NAME=
+APP_SOURCE=
+USER_ID=
+PASSWORD=
+USER_KEY=
+ENCRYPTION_KEY=
